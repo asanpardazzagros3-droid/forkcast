@@ -10,5 +10,15 @@
       "additions": 144,
       "deletions": 0
     }
+  ],
+  "openPrs": [
+    {
+      "number": 12035,
+      "title": "Update EIP-8136: Move to Review",
+      "author": "poojaranjan",
+      "updatedAt": "2026-08-06T13:51:49Z",
+      "additions": 3,
+      "deletions": 8
+    }
   ]
 }
