@@ -22,6 +22,14 @@
   ],
   "openPrs": [
     {
+      "number": 12127,
+      "title": "Update EIP-8279: Highlight block-size cap upfront",
+      "author": "nerolation",
+      "updatedAt": "2026-08-07T07:01:23Z",
+      "additions": 3,
+      "deletions": 3
+    },
+    {
       "number": 11909,
       "title": "Update EIP-8279: Fix 24 -> 32 in optimum expression",
       "author": "Helkomine",
