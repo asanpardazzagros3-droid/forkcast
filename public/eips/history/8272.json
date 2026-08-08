@@ -81,10 +81,18 @@
   ],
   "openPrs": [
     {
+      "number": 12131,
+      "title": "Update EIP-8272: specify RECENT_ROOT_CODE",
+      "author": "AnkushinDaniil",
+      "updatedAt": "2026-08-07T19:06:27Z",
+      "additions": 84,
+      "deletions": 1
+    },
+    {
       "number": 12125,
       "title": "Update EIP-8272: Highlight privacy benefit upfront",
       "author": "nerolation",
-      "updatedAt": "2026-08-07T12:47:25Z",
+      "updatedAt": "2026-08-08T06:30:24Z",
       "additions": 1,
       "deletions": 1
     }
