@@ -57,6 +57,14 @@
   ],
   "openPrs": [
     {
+      "number": 12144,
+      "title": "Update EIP-8070: Clarify custodyColumns `null` behavior",
+      "author": "dknopik",
+      "updatedAt": "2026-08-11T16:11:18Z",
+      "additions": 2,
+      "deletions": 2
+    },
+    {
       "number": 12079,
       "title": "Update EIP-8070: clarify RLP empty-list encoding",
       "author": "mattsse",
