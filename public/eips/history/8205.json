@@ -10,5 +10,15 @@
       "additions": 557,
       "deletions": 0
     }
+  ],
+  "openPrs": [
+    {
+      "number": 12184,
+      "title": "Update EIP-8205: adapt to the latest Gloas specification",
+      "author": "avsetsin",
+      "updatedAt": "2026-08-17T18:22:53Z",
+      "additions": 192,
+      "deletions": 162
+    }
   ]
 }
