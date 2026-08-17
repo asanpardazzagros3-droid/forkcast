@@ -106,10 +106,10 @@
   ],
   "openPrs": [
     {
-      "number": 12070,
-      "title": "Update EIP-1: unblock htmlproofer and artifact-driven review workflows",
+      "number": 12181,
+      "title": "Update EIP-8173: blank line after footnote definitions",
       "author": "minksy-ux",
-      "updatedAt": "2026-08-12T08:49:38Z",
+      "updatedAt": "2026-08-17T05:38:06Z",
       "additions": 8,
       "deletions": 0
     }
