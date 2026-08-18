@@ -20,5 +20,15 @@
       "additions": 144,
       "deletions": 0
     }
+  ],
+  "openPrs": [
+    {
+      "number": 12191,
+      "title": "Update EIP-8136: add Aarsh Shah to authors",
+      "author": "sukunrt",
+      "updatedAt": "2026-08-18T11:25:33Z",
+      "additions": 1,
+      "deletions": 1
+    }
   ]
 }
